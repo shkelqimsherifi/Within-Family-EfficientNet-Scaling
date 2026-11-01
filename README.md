@@ -18,6 +18,6 @@ The repository provides:
 4. Install the required dependencies and configure the dataset paths.
 5. Run the notebook cells to load the trained model and perform inference or evaluation.
 
-The GitHub repository contains the project code, while Hugging Face hosts the large model files and notebooks for independent use and experimentation.
+The GitHub repository contains the project code, while Hugging Face hosts the large model files and notebooks, figures, tables, scripts for independent use and experimentation.
 
 **Note:** Reproducing the reported evaluation results may require access to the original dataset and the same preprocessing and evaluation settings used in the study.
