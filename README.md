@@ -2,7 +2,7 @@
 
 Due to the large size of the trained model files, all model weights and executable Python notebooks are hosted on Hugging Face.
 
-**Hugging Face Repository:** [INSERT YOUR HUGGING FACE REPOSITORY LINK]
+**Hugging Face Repository:** [[INSERT YOUR HUGGING FACE REPOSITORY LINK]](https://huggingface.co/shkelqim2026/EfficientNet)
 
 The repository provides:
 
